@@ -1,2 +1,5 @@
 # HackerRank-Interview_Preparation_kit_Problems-in-C
-Check if you can improve any
+
+I solved problems with knowledge I have.
+Check if you can improve any...
+It helps me and other a lot.
