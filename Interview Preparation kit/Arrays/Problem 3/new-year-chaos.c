@@ -32,28 +32,13 @@
 //    printf("%d\n",brides);
 //    return 0;
 //}
+//Above code excceds time limit
 
 
-//int minBrides(int n, int arr[n])
-//{
-//    for(int k = 0; k<n ; k++)
-//    {
-//        if(arr[k] > k+3)
-//        {
-//            printf("Too chaotic\n");
-//            return 0;
-//        }
-//    }
-//    
-//    int brides = 0;
-//    
-//    for(int m=0; m < n ; m++)
-//    {
-//        
-//    }
-//}
 
 
+
+/////////////////////////////////////INSERTION SORT///////////////////////////////
 
 int minBrides(int size, int array[size]) {
     int brides=0;
